@@ -1,4 +1,7 @@
-/* Sidenav menu */
+
+
+  @media all and (max-width: 900px) {
+      /* Sidenav menu */
 .sidenav {
     height: 100%;
     width: 250px;
@@ -50,4 +53,5 @@
     height: 5px;
     background-color: black;
     margin: 6px 0;
+  }
   }
